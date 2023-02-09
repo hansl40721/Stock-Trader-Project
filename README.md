@@ -1,1 +1,3 @@
 # Stock-Trader-Project
+
+This is a project I created as part of an instructor-guided course. This application allows users to create a stock trading account, then gives them different options of stocks to buy/sell. The application progresses through a single "day", presents the user with the daily changes in stock prices, and allows them to make trades based on that information. The application both reads input from an imported file to determine stock prices (and their rise/fall), as well as user input to determine the trades they want to make and how much money they currently have available to them.
